@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("assets/fonts/Roboto-Black.ttf");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("assets/fonts/Roboto-Italic.ttf");
+  font-weight: 300;
+}
+.wrapper {
+  background-color: rgb(222, 189, 146);
+  border: 1px solid black;
+}
+.picture {
+  padding: 20px;
+  margin: 10px;
+}
+.header {
+  background-color: rgb(162, 139, 80);
+}
+.info {
+  padding: 0px;
+  margin: 30px;
+  color: rgb(109, 94, 94);
+}
+.list {
+  font-size: 800;
+  font-style: italic;
+}
+
+.card {
+  background-color: darkgoldenrod;
+  border: 1px solid black;
+  padding: 10px;
+}
+.languages {
+  background-color: darkseagreen;
+  border: 1spx solid black;
+  padding-left: 20px;
+}
+.footer {
+  background-color: aliceblue;
+}
+.image {
+  padding-left: 1000px;
+}
