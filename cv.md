@@ -1,6 +1,6 @@
 # Artem Kotlov
 
-![Artem Kotlov](IMG_164.JPG)
+![Artem Kotlov](/rsschool-cv/assets/img/1616.JPGIMG_164.JPG)
 
 ---
 
